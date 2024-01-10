@@ -26,5 +26,5 @@ Learn more about the template and the functionality it provides
 ## Next Steps
 
 To learn more about building decentralized apps on ZetaChain, follow the
-tutorials available in
+tutorials available in 
 [the introduction to ZetaChain](https://www.zetachain.com/docs/developers/overview/).
