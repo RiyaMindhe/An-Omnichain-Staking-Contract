@@ -1,7 +1,7 @@
 # Hardhat Template for ZetaChain
 
 This is a simple Hardhat template that provides a starting point for developing
-smart contract applications on ZetaChain.
+smart contract applications on ZetaChain.  
 
 ## Prerequisites
 
